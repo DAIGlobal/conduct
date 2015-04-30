@@ -3,13 +3,15 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
+destination:      ./_build
+exclude:          ["README.md", ".gitignore", "Guardfile", "Rakefile", "Gemfile", "Gemfile.lock", ".DS_Store", "punchlist.md"]
 
 # Setup
 title:               Lanyon w/ Sass, POW, and friends
 tagline:             'A Jekyll theme'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>. Forked to include a sensible gem bundle and alternate config file for [Sass](http://sass-lang.com), [Pow](http://sass-lang.com), and GithubPages support. '
 url:                 https://github.com/BryanSchuetz/lanyon
-baseurl:             '/lanyon'
+baseurl:             ''
 paginate:            5
 
 # About/contact
