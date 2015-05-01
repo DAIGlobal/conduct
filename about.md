@@ -13,6 +13,7 @@ There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
+* This is a forked version which adds support for Sass, now a native part of Jekyll with the 2.0 release, POW, and Github Pages.
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
