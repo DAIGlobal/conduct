@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+{% include 'includes/head' %}
 
   <body>
 
-    {% include sidebar.html %}
+ {% include 'includes/sidebar' %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -13,8 +13,8 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <a href="/" title="Home">{{ site.meta.title }}</a>
+            <small>{{ site.meta.tagline }}</small>
           </h3>
         </div>
       </div>
@@ -23,7 +23,6 @@
         {{ content }}
       </div>
     </div>
-
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
