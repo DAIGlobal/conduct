@@ -8,9 +8,28 @@
     <p>{{ site.meta.tagline }}</p>
   </div>
 
+
+
   <nav class="sidebar-nav">
-    {% for page in site.pages %}
-    <a href="{{ page.url }}" class="sidebar-nav-item">{{ page.title }}</a>
+    <a href="/" class="sidebar-nav-item {% if current.url == '/' %} {{ 'active' }} {% endif %} ">A Message from Our CEO</a>
+    {% for page in site.pages limit:2 offset:1 %}
+    <a href="{{ page.url }}" class="sidebar-nav-item {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }} </a>
+    {% endfor %}
+    <span href="" class="sidebar-nav-item sidebar-nav--heading">Integrity</span>
+    {% for page in site.pages.integrity.pages %}
+    <a href="{{ page.url }}" class="sidebar-nav-item inset {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }}</a>
+    {% endfor %}
+    <span href="" class="sidebar-nav-item sidebar-nav--heading">Responsibility</span>
+    {% for page in site.pages.responsibility.pages %}
+    <a href="{{ page.url }}" class="sidebar-nav-item inset {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }}</a>
+    {% endfor %}
+    <span href="" class="sidebar-nav-item sidebar-nav--heading">Excellence</span>
+    {% for page in site.pages.excellence.pages %}
+    <a href="{{ page.url }}" class="sidebar-nav-item inset {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }}</a>
+    {% endfor %}
+    <span href="" class="sidebar-nav-item sidebar-nav--heading">Global Citezenship</span>
+    {% for page in site.pages.global-citizenship.pages %}
+    <a href="{{ page.url }}" class="sidebar-nav-item inset {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }}</a>
     {% endfor %}
   </nav>
 

@@ -5,3 +5,19 @@
 blockquote h3{
   margin-top: 0px;
 }
+nav .inset{
+  padding-left: 2rem;
+}
+.sidebar-nav--heading{
+  text-transform: uppercase;
+}
+nav .active{
+background-color: rgba(255,255,255,0.1);
+border-color: transparent;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: none;
+  background-color: darken(#E3E3E3, 60%);
+  border-color: transparent;
+}
