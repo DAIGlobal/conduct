@@ -21,6 +21,26 @@
 
       <div class="container content">
         {{ content }}
+        <!-- Hackish  -->
+        {% for asset in current.assets %}
+          {% if asset.meta.resource %}
+            {% assign resources = 'yes' %}
+          {% endif %}
+        {% endfor %}
+
+        {% if resources %}
+          <div class="additional-resoruces">
+            <h3>Additional Resources</h3>
+            <ul>
+              {% for asset in current.assets %}
+                <li><a href=" {{ asset.url }}"> {{ asset.meta.resource }} </a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </div>
+      <div class="footer container">
+        <p class="footer-hotline">To make an anonymous report, contact: <a href="mailto:Ethics@DAI.com">Ethics@DAI.com</a> | +1-855-603-6987 (US) | +1-503-597-4328</p>
       </div>
     </div>
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
