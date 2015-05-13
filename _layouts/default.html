@@ -3,8 +3,8 @@
 
 {% include 'includes/head' %}
 
-  <body>
-
+  <body class="layout-reverse">
+  {% include 'includes/svgdefs' %}
  {% include 'includes/sidebar' %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
@@ -12,6 +12,7 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
+        <a href="/"><svg class="logo" viewBox="0 0 982 245" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg></a>
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.meta.title }}</a>
             <small>{{ site.meta.tagline }}</small>
@@ -33,7 +34,9 @@
             <h3>Additional Resources</h3>
             <ul>
               {% for asset in current.assets %}
+                {% if asset.meta.resource %}
                 <li><a href=" {{ asset.url }}"> {{ asset.meta.resource }} </a></li>
+                {% endif %}
               {% endfor %}
             </ul>
           </div>

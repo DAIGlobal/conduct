@@ -7,16 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if current.title == "Home" %}
-      {{ site.meta.title }} &middot; {{ site.meta.tagline }}  
+    {% if current.title == "A Message from Our President and CEO" %}
+      {{ site.meta.title }}
     {% else %}
-      {{ current.meta.title }} &middot; {{ site.meta.title }}
+      {{ current.title }} &middot; {{ site.meta.title }}
     {% endif %}
   </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/site.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
   <!-- JS -->
    <script type="text/javascript" src="/assets/js/site.js"></script>
@@ -27,4 +26,5 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  {% include 'includes/webfonts' %}
 </head>
