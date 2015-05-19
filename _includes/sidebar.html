@@ -12,7 +12,7 @@
 
   <nav class="sidebar-nav">
     <a href="/" class="sidebar-nav-item {% if current.url == '/' %} {{ 'active' }} {% endif %} ">A Message from Our CEO</a>
-    {% for page in site.pages limit:2 offset:1 %}
+    {% for page in site.pages limit:3 offset:1 %}
     <a href="{{ page.url }}" class="sidebar-nav-item {% if current.url contains page.url %} {{ 'active' }} {% endif %}">{{ page.title }} </a>
     {% endfor %}
     <span href="" class="sidebar-nav-item sidebar-nav--heading">Integrity</span>
