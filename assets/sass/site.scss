@@ -2,7 +2,9 @@
 @import "syntax";
 @import "lanyon";
 @import "variables";
-
+.next{
+  text-align: center;
+}
 body{
   visibility: hidden;
 }

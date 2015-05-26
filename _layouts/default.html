@@ -22,13 +22,13 @@
 
       <div class="container content">
         {{ content }}
+
         <!-- Hackish  -->
         {% for asset in current.assets %}
           {% if asset.meta.resource %}
             {% assign resources = 'yes' %}
           {% endif %}
         {% endfor %}
-
         {% if resources %}
           <div class="additional-resoruces">
             <h3>Additional Resources</h3>
@@ -41,6 +41,24 @@
             </ul>
           </div>
         {% endif %}
+          <hr>
+      <!-- Paginate Sections -->
+          {% if next.pages == empty %}
+            <p class="next">Next: <a href="{{ next.url }}">{{ next.title }}</a></p>    
+          {% elsif next.pages.size > 0 %}
+            {% for page in next.pages limit:1 %}
+              <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>    
+            {% endfor %}
+          {% elsif parent.next.pages == empty %}
+            <p class="next">Next: <a href="{{ parent.next.url }}">{{ parent.next.title }}</a></p> 
+          {% elsif parent.next.pages.size > 0 %}
+            {% for page in parent.next.pages limit:1 %}
+            <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>    
+            {% endfor %}
+          {% else %}
+            <p class="next">Next: <a href="/"> A Message from our CEO</a></p>
+          {% endif %}
+          <hr>
       </div>
       <div class="footer container">
         <p class="footer-hotline">To make an anonymous report, contact: <a href="mailto:Ethics@DAI.com">Ethics@DAI.com</a> | +1-855-603-6987 (US) | +1-503-597-4328</p>
