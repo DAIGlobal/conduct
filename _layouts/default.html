@@ -35,7 +35,11 @@
             <ul>
               {% for asset in current.assets %}
                 {% if asset.meta.resource %}
-                <li><a href=" {{ asset.url }}"> {{ asset.meta.resource }} </a></li>
+                  {% if asset.meta.url %}
+                    <li><a href=" {{ asset.meta.url }}"> {{ asset.meta.resource }} </a></li>
+                  {% else %}
+                    <li><a href=" {{ asset.url }}"> {{ asset.meta.resource }} </a></li>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
             </ul>
