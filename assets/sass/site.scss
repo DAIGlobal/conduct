@@ -110,10 +110,10 @@ iframe{
     height: 230px;
   }
   @include responsive(medium-screens){
-    height: 310px;
+    height: 335px;
   }
   @include responsive(wide-screens){
-    height: 390px;
+    height: 400px;
   }
   @include responsive(ultra-wide-screens){
     height: 470px;
