@@ -31,7 +31,7 @@
         {% endfor %}
         {% if resources %}
           <div class="additional-resoruces">
-            <h3>Additional Resources</h3>
+            <h3>Key Resources</h3>
             <ul>
               {% for asset in current.assets %}
                 {% if asset.meta.resource %}
@@ -48,16 +48,16 @@
           <hr>
       <!-- Paginate Sections -->
           {% if next.pages == empty %}
-            <p class="next">Next: <a href="{{ next.url }}">{{ next.title }}</a></p>    
+            <p class="next">Next: <a href="{{ next.url }}">{{ next.title }}</a></p>
           {% elsif next.pages.size > 0 %}
             {% for page in next.pages limit:1 %}
-              <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>    
+              <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>
             {% endfor %}
           {% elsif parent.next.pages == empty %}
-            <p class="next">Next: <a href="{{ parent.next.url }}">{{ parent.next.title }}</a></p> 
+            <p class="next">Next: <a href="{{ parent.next.url }}">{{ parent.next.title }}</a></p>
           {% elsif parent.next.pages.size > 0 %}
             {% for page in parent.next.pages limit:1 %}
-            <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>    
+            <p class="next">Next: <a href="{{ page.url }}">{{ page.title }}</a></p>
             {% endfor %}
           {% else %}
             <p class="next">Next: <a href="/"> A Message from our CEO</a></p>
