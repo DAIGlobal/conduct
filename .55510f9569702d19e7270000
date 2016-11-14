@@ -1,12 +1,12 @@
 ---
-time: 1469722469
+time: 1479160328
 inventory:
   "/home/index.html":
-    md5: 1cb0836db184c0abfcd3e3165a9693ba
-    time: 1469722454
+    md5: dcc4f467b592ca1b86675a1b37c68b61
+    time: 1479160325
   "/index.html":
-    md5: 1cb0836db184c0abfcd3e3165a9693ba
-    time: 1469722454
+    md5: dcc4f467b592ca1b86675a1b37c68b61
+    time: 1479160325
   "/introduction/index.html":
     md5: 13316cb31bec7b9befa112688734f9fc
     time: 1469722454
@@ -101,8 +101,8 @@ inventory:
     md5: a24bfa47087f16df27b21c65dd3d655c
     time: 1456347956
   "/feed.xml":
-    md5: 7814e3736c81fca983b312280898593b
-    time: 1469722456
+    md5: 6f7aab0cc5ac2250e64268ea24a692e9
+    time: 1479160326
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -226,3 +226,6 @@ inventory:
   "/assets/Code of Conduct - Urdu-1-2.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794876
+  "/assets/Bahasa Indonesia Pedoman Bisnis dan Etika DAI.pdf":
+    md5: 15a7cf9f14b3167162eb416a8b7d5364
+    time: 1479160326
