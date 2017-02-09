@@ -1,5 +1,5 @@
 ---
-time: 1480606762
+time: 1486672563
 inventory:
   "/home/index.html":
     md5: 0c1f091c267c1306cc9ef3eda3e54c60
@@ -38,8 +38,8 @@ inventory:
     md5: 851690844ae0ad209b96061a3a6caf9b
     time: 1480606748
   "/integrity/preventing-conflicts-of-interestbias/index.html":
-    md5: cf2b5d59ac1d793365e65d556a9edf70
-    time: 1480606748
+    md5: f4f8503ca38a6da7147fb3aef4a5839d
+    time: 1486672553
   "/integrity/fair-competition-and-good-faith-dealings/index.html":
     md5: 233fa24a05b2041636a8fcbf0fdbd0ee
     time: 1480606748
@@ -101,8 +101,8 @@ inventory:
     md5: a24bfa47087f16df27b21c65dd3d655c
     time: 1456347956
   "/feed.xml":
-    md5: 6e9c17281c00ce02229b7de20f7b3545
-    time: 1480606749
+    md5: 6f0242d931e3a47b2ae0cb0d59157b3d
+    time: 1486672557
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -190,6 +190,9 @@ inventory:
   "/assets/sass/site.scss":
     md5: 47f7eb4b5a1d7290351867ecc61d27ce
     time: 1456348470
+  "/assets/DAI Global Conduct Quarterly - Conflicts of Interest Feb 2017.pdf":
+    md5: 2278fd9dbce6eac57be7810c61205966
+    time: 1486672557
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
