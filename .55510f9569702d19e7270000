@@ -1,5 +1,5 @@
 ---
-time: 1486672563
+time: 1486672712
 inventory:
   "/home/index.html":
     md5: 0c1f091c267c1306cc9ef3eda3e54c60
@@ -38,8 +38,8 @@ inventory:
     md5: 851690844ae0ad209b96061a3a6caf9b
     time: 1480606748
   "/integrity/preventing-conflicts-of-interestbias/index.html":
-    md5: f4f8503ca38a6da7147fb3aef4a5839d
-    time: 1486672553
+    md5: 3c26b714171c5293b975d339a718ca55
+    time: 1486672706
   "/integrity/fair-competition-and-good-faith-dealings/index.html":
     md5: 233fa24a05b2041636a8fcbf0fdbd0ee
     time: 1480606748
@@ -101,8 +101,8 @@ inventory:
     md5: a24bfa47087f16df27b21c65dd3d655c
     time: 1456347956
   "/feed.xml":
-    md5: 6f0242d931e3a47b2ae0cb0d59157b3d
-    time: 1486672557
+    md5: 2d9959e2ed3a2cb7eed4db0e4277d997
+    time: 1486672708
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -202,6 +202,9 @@ inventory:
   "/assets/dari.pdf":
     md5: 2d4871f7ee24466278a9f2d41ed05cb8
     time: 1445876248
+  "/assets/Form 8.28. Disclosure of Relationships Form.docx":
+    md5: ea5d7cb9942e3fb5c3f3a13c3c36a9bc
+    time: 1486672708
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
@@ -211,6 +214,9 @@ inventory:
   "/assets/pashto.pdf":
     md5: 60c93e230faaa91f39525dcb3652ceda
     time: 1445876248
+  "/assets/Form 9.6 Confidentiality and Disclosure of Relationships- Procurement.doc":
+    md5: ae0f2d75b586b61b15864a8b7e2f121d
+    time: 1486672708
   "/assets/USAID fraud_awareness_handbook_052201.pdf":
     md5: c1b43746903d4c87eda04c76ae4ae96e
     time: 1445876248
