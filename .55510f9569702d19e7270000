@@ -1,5 +1,5 @@
 ---
-time: 1486672712
+time: 1489680525
 inventory:
   "/home/index.html":
     md5: 0c1f091c267c1306cc9ef3eda3e54c60
@@ -29,8 +29,8 @@ inventory:
     md5: 488b886a8460edd9ae52e356f7fdc71d
     time: 1480606748
   "/integrity/preventing-fraud/index.html":
-    md5: 3c1bd6dae8e54c9d218ec5cd07073d68
-    time: 1480606748
+    md5: e83c1280fbe0d7f5cee7f22cf3d45d31
+    time: 1489680521
   "/integrity/preventing-bribery-and-corruption/index.html":
     md5: 478445c371e681eed6233defa3ae8d70
     time: 1480606748
@@ -101,8 +101,8 @@ inventory:
     md5: a24bfa47087f16df27b21c65dd3d655c
     time: 1456347956
   "/feed.xml":
-    md5: 2d9959e2ed3a2cb7eed4db0e4277d997
-    time: 1486672708
+    md5: d2c60b2a2b74cc174bc68b991eb319ec
+    time: 1489680522
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -229,6 +229,9 @@ inventory:
   "/assets/Code of Business Conduct and Ethics - French.pdf":
     md5: fa6ccb318fcd5e33208a7f5e72c69b15
     time: 1445876249
+  "/assets/Pocket Guide to Fraud Prevention and Compliance in Middle East.pdf":
+    md5: 4807f6e1bc2a94c3894b7e410f1ee168
+    time: 1489680522
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
