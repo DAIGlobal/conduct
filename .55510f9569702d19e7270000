@@ -1,5 +1,5 @@
 ---
-time: 1494356551
+time: 1494356631
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -56,8 +56,8 @@ inventory:
     md5: 467db31e2d224013cb6362f6b80504f4
     time: 1493818140
   "/integrity/exercising-due-diligence/index.html":
-    md5: 8fc94a7a61c07d1326953811f3edeacc
-    time: 1494356550
+    md5: f9610de45d9400285c083d0d886b202e
+    time: 1494356630
   "/integrity/audits-and-investigations/index.html":
     md5: 0888eec65616d631672e2b29b06c7534
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: a24bfa47087f16df27b21c65dd3d655c
     time: 1456347956
   "/feed.xml":
-    md5: af21dfbdb0a2c8ed301c52f61d470ea7
-    time: 1494356550
+    md5: 026e08d96471fcb2988afbc7c5b5ca40
+    time: 1494356630
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
