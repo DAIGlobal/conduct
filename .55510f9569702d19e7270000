@@ -1,5 +1,5 @@
 ---
-time: 1501616419
+time: 1505749856
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -20,8 +20,8 @@ inventory:
     md5: 6b559f5674192667e09f763a196447f7
     time: 1493818139
   "/responsibility/index.html":
-    md5: fd79fe6ab82573b2a4e9f50c7de2dae9
-    time: 1493818139
+    md5: cd3704a65c0f0106b91dc76abe1e87e3
+    time: 1505749847
   "/excellence/index.html":
     md5: 9802f283b9f325f87cc200a7c587259e
     time: 1493818139
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: 3838e1c28f5e05e72798918fb7f4b167
-    time: 1501616418
+    md5: 50ba07e826cbbb5305029429c822db4c
+    time: 1505749849
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -205,6 +205,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017-2.docx":
     md5: 3dc2b733cc184bd61291b7a612edb5ac
     time: 1494355711
+  "/assets/2017 Annual Ethics Training Powerpoint.pptx":
+    md5: f60c68622015a3c1ff6e00c1af2ef38b
+    time: 1505749849
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
@@ -217,6 +220,9 @@ inventory:
   "/assets/Form 8.28. Disclosure of Relationships Form.docx":
     md5: ea5d7cb9942e3fb5c3f3a13c3c36a9bc
     time: 1486672708
+  "/assets/2017 Annual Ethics Training Leader Guide.docx":
+    md5: 0e4ac2f90786a81926064d7f2cfa3a0c
+    time: 1505749850
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
