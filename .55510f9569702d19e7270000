@@ -1,5 +1,5 @@
 ---
-time: 1512485082
+time: 1512503589
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -92,8 +92,8 @@ inventory:
     md5: 9373a7c9cfa3070b8a49500a9c92196c
     time: 1493818140
   "/global-citizenship/gifts-and-entertainment/index.html":
-    md5: 5725620c953f2457beb1eef5964744c8
-    time: 1512485081
+    md5: 05734555115ff8372ef88abc152b668e
+    time: 1512503588
   "/global-citizenship/communicating-with-media-and-the-public/index.html":
     md5: 86508682325bfcd3320e9aaafe2e51d6
     time: 1493818141
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: 6f71fca1c56f43aaf4da22ad82a5027f
-    time: 1512485081
+    md5: 15bcd63984fe725d55fea6a7d92e18d2
+    time: 1512503588
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -211,9 +211,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Ethics  Respect in the Workplace.docx":
     md5: 34a6597d3af3665c06c7738bd68094f9
     time: 1507128620
-  "/assets/GIFT Rule.docx":
-    md5: 55773a0324f6edefd7e7dfad8e515b1c
-    time: 1512485081
+  "/assets/Holiday Reminder on Gifts and Entertainment.docx":
+    md5: 10571304cccb7487a82fab8ba1bf8afc
+    time: 1512503588
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
@@ -232,6 +232,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-2.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755130
+  "/assets/GIFT Rule.docx":
+    md5: 55773a0324f6edefd7e7dfad8e515b1c
+    time: 1512485081
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
