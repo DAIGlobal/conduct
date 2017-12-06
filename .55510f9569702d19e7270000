@@ -1,5 +1,5 @@
 ---
-time: 1512503589
+time: 1512580729
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 2dfb25158b6139a936afbec152f8378c
-    time: 1507128619
+    md5: 194c6e381cccf3d733b3a91b0a60cd94
+    time: 1512580727
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: 15bcd63984fe725d55fea6a7d92e18d2
-    time: 1512503588
+    md5: f802e4fce2a88db445b0bd9893a05a1f
+    time: 1512580728
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -208,12 +208,12 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-1.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755129
-  "/assets/DAI Global Conduct Quarterly - Ethics  Respect in the Workplace.docx":
-    md5: 34a6597d3af3665c06c7738bd68094f9
-    time: 1507128620
   "/assets/Holiday Reminder on Gifts and Entertainment.docx":
     md5: 10571304cccb7487a82fab8ba1bf8afc
     time: 1512503588
+  "/assets/Jim's message about sexual harassment Dec 2017.docx":
+    md5: 762ad5c10439bdc1777be500891f5b64
+    time: 1512580728
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
@@ -232,6 +232,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-2.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755130
+  "/assets/DAI Global Conduct Quarterly - Ethics  Respect in the Workplace.docx":
+    md5: 34a6597d3af3665c06c7738bd68094f9
+    time: 1507128620
   "/assets/GIFT Rule.docx":
     md5: 55773a0324f6edefd7e7dfad8e515b1c
     time: 1512485081
