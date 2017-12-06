@@ -1,5 +1,5 @@
 ---
-time: 1512581095
+time: 1512595228
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 6eb34bc0de2b50636af8c6341b9f4c1a
-    time: 1512581093
+    md5: e4c32bbd8f35f816a9394e5af2ed93a8
+    time: 1512595226
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: ff851ea0061e2c8f763e5c109ecf63fa
-    time: 1512581093
+    md5: dfce08391f9074bf87e7ce9eb25739c7
+    time: 1512595226
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -211,9 +211,9 @@ inventory:
   "/assets/Holiday Reminder on Gifts and Entertainment.docx":
     md5: 10571304cccb7487a82fab8ba1bf8afc
     time: 1512503588
-  "/assets/Our CEO's message about sexual harassment, Dec 2017.docx":
-    md5: 762ad5c10439bdc1777be500891f5b64
-    time: 1512581094
+  "/assets/Reminder on DAI's zero tolerance for sexual harassment, Nov 2017.docx":
+    md5: 518b65011aa766e5626db0dd16229406
+    time: 1512595226
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
