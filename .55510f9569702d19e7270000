@@ -1,5 +1,5 @@
 ---
-time: 1512595228
+time: 1513608539
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: e4c32bbd8f35f816a9394e5af2ed93a8
-    time: 1512595226
+    md5: 04e850782cc27b6a26553fa673777600
+    time: 1513608537
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: dfce08391f9074bf87e7ce9eb25739c7
-    time: 1512595226
+    md5: 728084e362acaf0dbe9f2fb2ee826f83
+    time: 1513608537
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -211,9 +211,9 @@ inventory:
   "/assets/Holiday Reminder on Gifts and Entertainment.docx":
     md5: 10571304cccb7487a82fab8ba1bf8afc
     time: 1512503588
-  "/assets/Reminder on DAI's zero tolerance for sexual harassment, Nov 2017.docx":
-    md5: 518b65011aa766e5626db0dd16229406
-    time: 1512595226
+  "/assets/DAI Global Conduct Quarterly - Sexual Harassment 12-18-2017.pdf":
+    md5: 65160f93800e00939ba021f7c455b4f9
+    time: 1513608537
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
@@ -232,12 +232,12 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-2.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755130
-  "/assets/DAI Global Conduct Quarterly - Ethics  Respect in the Workplace.docx":
-    md5: 34a6597d3af3665c06c7738bd68094f9
-    time: 1507128620
   "/assets/GIFT Rule.docx":
     md5: 55773a0324f6edefd7e7dfad8e515b1c
     time: 1512485081
+  "/assets/Reminder on DAI's zero tolerance for sexual harassment, Nov 2017.docx":
+    md5: 518b65011aa766e5626db0dd16229406
+    time: 1512595226
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
@@ -253,6 +253,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Leader Guide-2.docx":
     md5: 0e4ac2f90786a81926064d7f2cfa3a0c
     time: 1505755130
+  "/assets/DAI Global Conduct Quarterly - Ethics  Respect in the Workplace.docx":
+    md5: 34a6597d3af3665c06c7738bd68094f9
+    time: 1507128620
   "/assets/USAID fraud_awareness_handbook_052201.pdf":
     md5: c1b43746903d4c87eda04c76ae4ae96e
     time: 1445876248
