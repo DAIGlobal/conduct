@@ -1,5 +1,5 @@
 ---
-time: 1513608821
+time: 1516631784
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -11,8 +11,8 @@ inventory:
     md5: 4f1df48cd636b0a0e4b2710ca0bdd710
     time: 1493818139
   "/our-mission-and-values/index.html":
-    md5: d38dabe756128e3f2fb6ec523e72a72b
-    time: 1493818139
+    md5: b7f7d9ddb8ad716fbd5b11c5b4ffabde
+    time: 1516631780
   "/ethics-hotline/index.html":
     md5: 4c64c420b8d5e20534b381506aa1bc89
     time: 1501616415
@@ -107,8 +107,8 @@ inventory:
     md5: a602b625533b7d2e1bad0ed2a9c80964
     time: 1501616418
   "/feed.xml":
-    md5: f247411991f496def522155dc3edec32
-    time: 1513608820
+    md5: a7fdbcd7f35625ea560039f2eb54fdc9
+    time: 1516631782
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -238,6 +238,9 @@ inventory:
   "/assets/Reminder on DAI's zero tolerance for sexual harassment, Nov 2017.docx":
     md5: 518b65011aa766e5626db0dd16229406
     time: 1512595226
+  "/assets/Message from our CEO on MLK Day - Jan-15-2018.docx":
+    md5: bbbe92f0f5850b77b69d519f07e1f664
+    time: 1516631782
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
