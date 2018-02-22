@@ -1,5 +1,5 @@
 ---
-time: 1516631784
+time: 1519326270
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -56,8 +56,8 @@ inventory:
     md5: 467db31e2d224013cb6362f6b80504f4
     time: 1493818140
   "/integrity/exercising-due-diligence/index.html":
-    md5: ce0aab01c3b6ddccf3cb73273fc8e867
-    time: 1494356831
+    md5: 0502aed8b8a084276e4aad9a98c3bd66
+    time: 1519326267
   "/integrity/audits-and-investigations/index.html":
     md5: 0888eec65616d631672e2b29b06c7534
     time: 1493818140
@@ -104,11 +104,11 @@ inventory:
     md5: 80b1e9dce7c56fea7a4b50dc062494b6
     time: 1445876244
   "/sitemap.xml":
-    md5: a602b625533b7d2e1bad0ed2a9c80964
-    time: 1501616418
+    md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
+    time: 1519326267
   "/feed.xml":
-    md5: a7fdbcd7f35625ea560039f2eb54fdc9
-    time: 1516631782
+    md5: 4133401e397f81158e920796581095c2
+    time: 1519326268
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -202,9 +202,6 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017-1.docx":
     md5: 3dc2b733cc184bd61291b7a612edb5ac
     time: 1493831796
-  "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017-2.docx":
-    md5: 3dc2b733cc184bd61291b7a612edb5ac
-    time: 1494355711
   "/assets/2017 Annual Ethics Training Powerpoint-1.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755129
@@ -241,6 +238,9 @@ inventory:
   "/assets/Message from our CEO on MLK Day - Jan-15-2018.docx":
     md5: bbbe92f0f5850b77b69d519f07e1f664
     time: 1516631782
+  "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017.pdf":
+    md5: 87482ed2da4d739db2354aded52b7b6a
+    time: 1519326268
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
