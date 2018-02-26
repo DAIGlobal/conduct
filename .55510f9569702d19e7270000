@@ -1,5 +1,5 @@
 ---
-time: 1519326691
+time: 1519657560
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: c6fad67ae0b05f6267a54030c8d24880
-    time: 1519326689
+    md5: 7fae7859fb2a348e1903e4e1142e0a06
+    time: 1519657557
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: f371524cf8ae1012542ff59fb6844ad4
-    time: 1519326689
+    md5: 7d4474ebc9cf626c57f0ae3f28bf5f0c
+    time: 1519657558
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -232,15 +232,15 @@ inventory:
   "/assets/GIFT Rule.docx":
     md5: 55773a0324f6edefd7e7dfad8e515b1c
     time: 1512485081
-  "/assets/Reminder on DAI's zero tolerance for sexual harassment, Nov 2017.docx":
-    md5: 518b65011aa766e5626db0dd16229406
-    time: 1512595226
   "/assets/Message from our CEO on MLK Day - Jan-15-2018.docx":
     md5: bbbe92f0f5850b77b69d519f07e1f664
     time: 1516631782
   "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017.pdf":
     md5: 87482ed2da4d739db2354aded52b7b6a
     time: 1519326268
+  "/assets/DAI Global Conduct Quarterly - Ethics & Respect in the Workplace.pdf":
+    md5: d7ecbcbd1866ed71d8bc3367e1cedfde
+    time: 1519326689
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
@@ -256,9 +256,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Leader Guide-2.docx":
     md5: 0e4ac2f90786a81926064d7f2cfa3a0c
     time: 1505755130
-  "/assets/DAI Global Conduct Quarterly - Ethics & Respect in the Workplace.pdf":
-    md5: d7ecbcbd1866ed71d8bc3367e1cedfde
-    time: 1519326689
+  "/assets/Our CEO's message about sexual harassment, Dec 2017.pdf":
+    md5: 2cba230700671f3c16a1d1cf31b59383
+    time: 1519657558
   "/assets/USAID fraud_awareness_handbook_052201.pdf":
     md5: c1b43746903d4c87eda04c76ae4ae96e
     time: 1445876248
