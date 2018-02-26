@@ -1,5 +1,5 @@
 ---
-time: 1519657810
+time: 1519658085
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 43e7116f8c53957bc9e9ee251e4f2258
-    time: 1519657809
+    md5: eb0107477ebb79762ab9932ae7c1f399
+    time: 1519658081
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 4f060be6a21016f57f7c9ac7d763acfe
-    time: 1519657809
+    md5: e7e5d27f9f26a88daf42a7549497e2a4
+    time: 1519658082
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -256,6 +256,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Leader Guide-2.docx":
     md5: 0e4ac2f90786a81926064d7f2cfa3a0c
     time: 1505755130
+  "/assets/Our CEO's message about sexual harassment, Dec 2017.pdf":
+    md5: 2cba230700671f3c16a1d1cf31b59383
+    time: 1519658082
   "/assets/USAID fraud_awareness_handbook_052201.pdf":
     md5: c1b43746903d4c87eda04c76ae4ae96e
     time: 1445876248
