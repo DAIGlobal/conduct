@@ -1,5 +1,5 @@
 ---
-time: 1520355374
+time: 1520355628
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -268,18 +268,18 @@ inventory:
   "/assets/spanish.pdf":
     md5: 0cc1d938399b56614b2558487927ddbd
     time: 1445876249
-  "/assets/Sexual Harassment training AVANSE English Version 2018.pptx":
+  "/assets/Example for sexual harassment training 2018 - English Version.pptx":
     md5: 300ccc9fcd0c4c8659c86c19dad58a45
-    time: 1520355371
+    time: 1520355626
   "/assets/Code of Business Conduct and Ethics - French.pdf":
     md5: fa6ccb318fcd5e33208a7f5e72c69b15
     time: 1445876249
   "/assets/Pocket Guide to Fraud Prevention and Compliance in Middle East.pdf":
     md5: 4807f6e1bc2a94c3894b7e410f1ee168
     time: 1489680522
-  "/assets/Sexual Harassment training AVANSE French Version 2018.pptx":
+  "/assets/Example for sexual harassment training 2018 - French Version.pptx":
     md5: 067e35107c4fa4b3632b3c2ab04cc222
-    time: 1520355371
+    time: 1520355626
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
