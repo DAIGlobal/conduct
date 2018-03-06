@@ -1,5 +1,5 @@
 ---
-time: 1520355628
+time: 1520355682
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: bdada71980016d4398187e981b03d1ca
-    time: 1520355370
+    md5: 75918b0dc21f27c606c56777d71562db
+    time: 1520355681
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 62a7baac707bf6f6f1d0c334e241f7ca
-    time: 1520355371
+    md5: 88b5b273dea5a72fe2521ab79a808854
+    time: 1520355681
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
