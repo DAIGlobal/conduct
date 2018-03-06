@@ -1,5 +1,5 @@
 ---
-time: 1519658234
+time: 1520355374
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 29d66209e9cc3036f6fe2462c7eef03e
-    time: 1519658232
+    md5: bdada71980016d4398187e981b03d1ca
+    time: 1520355370
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 92e3ba5df7e747f3f6e319566ad19c85
-    time: 1519658232
+    md5: 62a7baac707bf6f6f1d0c334e241f7ca
+    time: 1520355371
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -268,12 +268,18 @@ inventory:
   "/assets/spanish.pdf":
     md5: 0cc1d938399b56614b2558487927ddbd
     time: 1445876249
+  "/assets/Sexual Harassment training AVANSE English Version 2018.pptx":
+    md5: 300ccc9fcd0c4c8659c86c19dad58a45
+    time: 1520355371
   "/assets/Code of Business Conduct and Ethics - French.pdf":
     md5: fa6ccb318fcd5e33208a7f5e72c69b15
     time: 1445876249
   "/assets/Pocket Guide to Fraud Prevention and Compliance in Middle East.pdf":
     md5: 4807f6e1bc2a94c3894b7e410f1ee168
     time: 1489680522
+  "/assets/Sexual Harassment training AVANSE French Version 2018.pptx":
+    md5: 067e35107c4fa4b3632b3c2ab04cc222
+    time: 1520355371
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
