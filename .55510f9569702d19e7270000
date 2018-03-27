@@ -1,5 +1,5 @@
 ---
-time: 1520355682
+time: 1522179392
 inventory:
   "/home/index.html":
     md5: dcdb096ee80176427251dc4e8af8f65a
@@ -74,8 +74,8 @@ inventory:
     md5: b2829dcb70107507f6f3a70a11498e14
     time: 1493818140
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 75918b0dc21f27c606c56777d71562db
-    time: 1520355681
+    md5: f70347eaf61a0d170cd35f8ded8f99f9
+    time: 1522179389
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: c8b73e1c35fa0b54f262558c95ff4951
     time: 1493818140
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 88b5b273dea5a72fe2521ab79a808854
-    time: 1520355681
+    md5: 0f4594872ce5a2e059a2912671109da3
+    time: 1522179389
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -283,9 +283,15 @@ inventory:
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
+  "/assets/DAI's zero tolerance for sexual harassment - Spanish version.pdf":
+    md5: 1c85b5ba582dc1f2e9832c4195c75c3a
+    time: 1522179390
   "/assets/Code of Conduct - Urdu-1-2.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794876
+  "/assets/No Harassment Policy - Spanish version.pdf":
+    md5: 8d8ac3a867e6d5cb5b9e07c0fd7ac355
+    time: 1522179390
   "/assets/Bahasa Indonesia Pedoman Bisnis dan Etika DAI.pdf":
     md5: 15a7cf9f14b3167162eb416a8b7d5364
     time: 1479160326
