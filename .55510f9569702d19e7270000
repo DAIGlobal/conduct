@@ -1,5 +1,5 @@
 ---
-time: 1523307810
+time: 1523368315
 inventory:
   "/home/index.html":
     md5: 86b59bbba958ab0907c83fb7045c4128
@@ -74,8 +74,8 @@ inventory:
     md5: 3600d03437ab50f510c5e46fec2aa649
     time: 1523307796
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 23f6d6ebeb613c97cc561910a65a9717
-    time: 1523307796
+    md5: d6bddc840470ce237bc20d9d32174697
+    time: 1523368312
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: df9e1261205201ba6205e5b05435106c
     time: 1523307796
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: c4019b9083a9c7dd72b0257f967f457c
-    time: 1523307796
+    md5: 3340fc69c508446743943b74ac12cf2a
+    time: 1523368313
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -295,3 +295,6 @@ inventory:
   "/assets/Bahasa Indonesia Pedoman Bisnis dan Etika DAI.pdf":
     md5: 15a7cf9f14b3167162eb416a8b7d5364
     time: 1479160326
+  "/assets/Anti-Harassment Policy - Operations Manual - English version.pdf":
+    md5: 5b38818b1ee18e4210fb37d7b9e01267
+    time: 1523368313
