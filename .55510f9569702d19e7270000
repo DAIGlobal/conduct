@@ -1,5 +1,5 @@
 ---
-time: 1523368315
+time: 1529696893
 inventory:
   "/home/index.html":
     md5: 86b59bbba958ab0907c83fb7045c4128
@@ -62,8 +62,8 @@ inventory:
     md5: 89b4dcb4635bf15f55d146aaa788d7e6
     time: 1523307795
   "/responsibility/your-responsibility/index.html":
-    md5: a943c0407841e0d017d9d2544a2b8907
-    time: 1523307796
+    md5: f261b79b2e54c15049d24e9f6c2e3ef8
+    time: 1529696890
   "/responsibility/ethics-and-compliance/index.html":
     md5: 8fca83189fa239438a0632a17d250585
     time: 1523307796
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 3340fc69c508446743943b74ac12cf2a
-    time: 1523368313
+    md5: 9f9d7d31dc635d6199c57244d2367f7d
+    time: 1529696891
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -271,6 +271,9 @@ inventory:
   "/assets/Example for sexual harassment training 2018 - English Version.pptx":
     md5: 300ccc9fcd0c4c8659c86c19dad58a45
     time: 1520355626
+  "/assets/DAI Global Conduct Quarterly - Lessons learned from 2017.pdf":
+    md5: f1de517c34c414ac668f37a0ea185036
+    time: 1529696892
   "/assets/Code of Business Conduct and Ethics - French.pdf":
     md5: fa6ccb318fcd5e33208a7f5e72c69b15
     time: 1445876249
