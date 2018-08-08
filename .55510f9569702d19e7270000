@@ -1,5 +1,5 @@
 ---
-time: 1529696893
+time: 1533741644
 inventory:
   "/home/index.html":
     md5: 86b59bbba958ab0907c83fb7045c4128
@@ -29,8 +29,8 @@ inventory:
     md5: 01fbaafa785bc54135ebc1dfdec98526
     time: 1523307795
   "/integrity/preventing-fraud/index.html":
-    md5: 89dc98d05edc3310041a568fd1d92bc8
-    time: 1523307795
+    md5: 0904818844207f9398af17516e4f77ca
+    time: 1533741640
   "/integrity/preventing-bribery-and-corruption/index.html":
     md5: a3657a8a6bbd48db73d3f16b53dbf245
     time: 1523307795
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 9f9d7d31dc635d6199c57244d2367f7d
-    time: 1529696891
+    md5: 13b7167ef247e918b968c0dbea712279
+    time: 1533741642
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -277,12 +277,12 @@ inventory:
   "/assets/Code of Business Conduct and Ethics - French.pdf":
     md5: fa6ccb318fcd5e33208a7f5e72c69b15
     time: 1445876249
-  "/assets/Pocket Guide to Fraud Prevention and Compliance in Middle East.pdf":
-    md5: 4807f6e1bc2a94c3894b7e410f1ee168
-    time: 1489680522
   "/assets/Example for sexual harassment training 2018 - French Version.pptx":
     md5: 067e35107c4fa4b3632b3c2ab04cc222
     time: 1520355626
+  "/assets/Pocket Guide to Fraud Prevention and Compliance.pdf":
+    md5: 0ed9daf5ccd0ff65ac169bfdf4d378c9
+    time: 1533741642
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
