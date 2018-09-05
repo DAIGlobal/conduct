@@ -1,5 +1,5 @@
 ---
-time: 1536165347
+time: 1536165736
 inventory:
   "/home/index.html":
     md5: 86b59bbba958ab0907c83fb7045c4128
@@ -56,8 +56,8 @@ inventory:
     md5: 6a5516da8d6dce6e3d7ae2e06eff733c
     time: 1523307795
   "/integrity/exercising-due-diligence/index.html":
-    md5: 9ada72ca042c2d7e31862830846784a4
-    time: 1523307795
+    md5: 526d80b8c15f4f7708337c2d685291c3
+    time: 1536165733
   "/integrity/audits-and-investigations/index.html":
     md5: 89b4dcb4635bf15f55d146aaa788d7e6
     time: 1523307795
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: 6f46e1bd70e03f83fb22d05356189225
-    time: 1536165346
+    md5: 9886c437684b32334411d867052dd611
+    time: 1536165734
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -211,6 +211,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Sexual Harassment 12-18-2017.pdf":
     md5: 65160f93800e00939ba021f7c455b4f9
     time: 1513608537
+  "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017.pdf":
+    md5: 87482ed2da4d739db2354aded52b7b6a
+    time: 1519326268
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
@@ -235,12 +238,12 @@ inventory:
   "/assets/Message from our CEO on MLK Day - Jan-15-2018.docx":
     md5: bbbe92f0f5850b77b69d519f07e1f664
     time: 1516631782
-  "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017.pdf":
-    md5: 87482ed2da4d739db2354aded52b7b6a
-    time: 1519326268
   "/assets/DAI Global Conduct Quarterly - Ethics & Respect in the Workplace.pdf":
     md5: d7ecbcbd1866ed71d8bc3367e1cedfde
     time: 1519326689
+  "/assets/DAI Global Conduct Quarterly - Recruitment Aug 2018-1.pdf":
+    md5: 66114c406967d403ead068556f6fd9c8
+    time: 1536165734
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
