@@ -1,21 +1,21 @@
 ---
-time: 1536174963
+time: 1541015299
 inventory:
   "/home/index.html":
-    md5: 86b59bbba958ab0907c83fb7045c4128
-    time: 1523307794
+    md5: e8b8c17b088c238eaa42c7c20792d067
+    time: 1541015290
   "/index.html":
-    md5: 86b59bbba958ab0907c83fb7045c4128
-    time: 1523307794
+    md5: e8b8c17b088c238eaa42c7c20792d067
+    time: 1541015290
   "/introduction/index.html":
     md5: 91d35766a055cd9221f679a25cd3e2e8
     time: 1523307794
   "/our-mission-and-values/index.html":
-    md5: 54d155ab8fab2d3f90353fd6b536ab33
-    time: 1523307794
+    md5: e0c987ce5024915be701e1a7388c5a5d
+    time: 1541015290
   "/ethics-hotline/index.html":
-    md5: 22c9d421e1797129507b36a940908c50
-    time: 1523307794
+    md5: 7838ffff9890a1883fa284f150262b31
+    time: 1541015291
   "/integrity/index.html":
     md5: be1387fbbafeb72973f010a6b27e7051
     time: 1523307794
@@ -35,8 +35,8 @@ inventory:
     md5: a3657a8a6bbd48db73d3f16b53dbf245
     time: 1523307795
   "/integrity/conflicts-of-interest/index.html":
-    md5: 1ea857037e281aa9e729e27f9243c3a7
-    time: 1523307795
+    md5: 7ec62b6c1349246cc5a006351197feba
+    time: 1541015292
   "/integrity/preventing-conflicts-of-interestbias/index.html":
     md5: 99da57f3ae6253d1b2355ff341b8184d
     time: 1523307795
@@ -50,32 +50,32 @@ inventory:
     md5: 0c52c244de5d7ed48748855fafaa1ecb
     time: 1523307795
   "/integrity/procurement/index.html":
-    md5: e8f98aefafbd65d613582ead288dc2f6
-    time: 1523307795
+    md5: 99e9de5ad4fda2142b936089bb7616d5
+    time: 1541015292
   "/integrity/complying-with-international-trade-sanctions/index.html":
     md5: 6a5516da8d6dce6e3d7ae2e06eff733c
     time: 1523307795
   "/integrity/exercising-due-diligence/index.html":
-    md5: 526d80b8c15f4f7708337c2d685291c3
-    time: 1536165733
+    md5: 96910c0995a1dbac95eeae9ba6055a93
+    time: 1541015292
   "/integrity/audits-and-investigations/index.html":
-    md5: 89b4dcb4635bf15f55d146aaa788d7e6
-    time: 1523307795
+    md5: c89aac3424f4e6f5f1a1c918efdf035f
+    time: 1541015292
   "/responsibility/your-responsibility/index.html":
     md5: f261b79b2e54c15049d24e9f6c2e3ef8
     time: 1529696890
   "/responsibility/ethics-and-compliance/index.html":
-    md5: 8fca83189fa239438a0632a17d250585
-    time: 1523307796
+    md5: de2c617f772f3155132d4bd85a30674c
+    time: 1541015292
   "/excellence/ensuring-quality/index.html":
-    md5: 88b39f46774fceb1de2c52f73aa51dd5
-    time: 1523307796
+    md5: 5ab6cbd1f90c622061bc26536b37c6d2
+    time: 1541015293
   "/global-citizenship/safe-secure-and-healthy-work-environment/index.html":
     md5: 3600d03437ab50f510c5e46fec2aa649
     time: 1523307796
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 7544e2a3102839603f4eb15a6bf5ecaf
-    time: 1536174961
+    md5: 8c298568cbd8a7a7265a0a4b9ea33738
+    time: 1541015293
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
     md5: df9e1261205201ba6205e5b05435106c
     time: 1523307796
@@ -107,8 +107,8 @@ inventory:
     md5: 2bb4b16bd5f589dc6c8fb324dc2ce733
     time: 1519326267
   "/feed.xml":
-    md5: b7a570284ba87c3bc2583435971a191d
-    time: 1536174961
+    md5: 6bbace27431d467772b8df401c2704df
+    time: 1541015293
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -244,6 +244,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Recruitment Aug 2018-1.pdf":
     md5: 66114c406967d403ead068556f6fd9c8
     time: 1536165734
+  "/assets/DAI Global Conduct Quarterly - Performance Fraud - October 2018.pdf":
+    md5: 9c781c42e5c231453c55a59a927b47dc
+    time: 1541015293
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
