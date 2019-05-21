@@ -1,5 +1,5 @@
 ---
-time: 1558464174
+time: 1558464305
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -11,8 +11,8 @@ inventory:
     md5: 91d35766a055cd9221f679a25cd3e2e8
     time: 1523307794
   "/our-mission-and-values/index.html":
-    md5: e0c987ce5024915be701e1a7388c5a5d
-    time: 1558464171
+    md5: a3538d369dc1c1c86c0d8e3b3c358612
+    time: 1558464300
   "/ethics-hotline/index.html":
     md5: 7838ffff9890a1883fa284f150262b31
     time: 1541015291
@@ -104,11 +104,11 @@ inventory:
     md5: 80b1e9dce7c56fea7a4b50dc062494b6
     time: 1445876244
   "/sitemap.xml":
-    md5: 29256bf0d9bf858a6e2d350e003a7c95
-    time: 1558464058
+    md5: c894d70f5ecdfebfb5912bc8c58a28ad
+    time: 1558464302
   "/feed.xml":
-    md5: 45eef2463024aa3698a7b4daeef8352d
-    time: 1558464173
+    md5: e7b02cb3972563eae041dd05b6507472
+    time: 1558464302
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -265,6 +265,9 @@ inventory:
   "/assets/DAI's zero tolerance for sexual harassment.pdf":
     md5: 2cba230700671f3c16a1d1cf31b59383
     time: 1519658232
+  "/assets/Message from our CEO on Cultural Diversity Day - May-20-2019.docx":
+    md5: 1559c69f2b65a8de3a994caaf675958a
+    time: 1558464302
   "/assets/USAID fraud_awareness_handbook_052201.pdf":
     md5: c1b43746903d4c87eda04c76ae4ae96e
     time: 1445876248
