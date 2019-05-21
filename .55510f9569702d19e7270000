@@ -1,5 +1,5 @@
 ---
-time: 1558463402
+time: 1558464059
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -11,8 +11,8 @@ inventory:
     md5: 91d35766a055cd9221f679a25cd3e2e8
     time: 1523307794
   "/our-mission-and-values/index.html":
-    md5: 113106c700a4618e49edef600ea5d342
-    time: 1558463397
+    md5: a3538d369dc1c1c86c0d8e3b3c358612
+    time: 1558464056
   "/ethics-hotline/index.html":
     md5: 7838ffff9890a1883fa284f150262b31
     time: 1541015291
@@ -104,11 +104,11 @@ inventory:
     md5: 80b1e9dce7c56fea7a4b50dc062494b6
     time: 1445876244
   "/sitemap.xml":
-    md5: eb7f62861f01d35d9455ebba51328733
-    time: 1558463400
+    md5: 29256bf0d9bf858a6e2d350e003a7c95
+    time: 1558464058
   "/feed.xml":
-    md5: 68bd5212b86d30798ed7f34ca803cbb0
-    time: 1558463400
+    md5: 9e5738e2f7e707ab7a92f3967ab29298
+    time: 1558464058
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
