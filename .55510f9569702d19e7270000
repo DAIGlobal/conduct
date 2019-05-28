@@ -1,5 +1,5 @@
 ---
-time: 1558464305
+time: 1559068055
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -62,8 +62,8 @@ inventory:
     md5: c89aac3424f4e6f5f1a1c918efdf035f
     time: 1541015292
   "/responsibility/your-responsibility/index.html":
-    md5: 1e407cc9a7a6f0af43e7f073cc88026d
-    time: 1554132655
+    md5: 413884c731646d0cbbc94f37b9472ba5
+    time: 1559068052
   "/responsibility/ethics-and-compliance/index.html":
     md5: de2c617f772f3155132d4bd85a30674c
     time: 1541015292
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: e7b02cb3972563eae041dd05b6507472
-    time: 1558464302
+    md5: 08ff833fc90ef610c660042087030ae3
+    time: 1559068053
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -304,6 +304,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Procurement Fraud - December 2018.pdf":
     md5: 06adcc100940955d48ae735128092621
     time: 1547154630
+  "/assets/Applying Management Skills to Create an Ethical Culture.pdf":
+    md5: 8af7749709135e7e5292ab463cf5ddac
+    time: 1559068053
   "/assets/Code of Conduct - Urdu-1-2.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794876
