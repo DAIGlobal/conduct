@@ -1,5 +1,5 @@
 ---
-time: 1559068055
+time: 1562094409
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -35,8 +35,8 @@ inventory:
     md5: a3657a8a6bbd48db73d3f16b53dbf245
     time: 1523307795
   "/integrity/conflicts-of-interest/index.html":
-    md5: 7ec62b6c1349246cc5a006351197feba
-    time: 1541015292
+    md5: 6b05ea8979d775426a897bc19137adbe
+    time: 1562094406
   "/integrity/preventing-conflicts-of-interestbias/index.html":
     md5: 99da57f3ae6253d1b2355ff341b8184d
     time: 1523307795
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 08ff833fc90ef610c660042087030ae3
-    time: 1559068053
+    md5: 2884ad245caeb3fe93e14fe9d96e6024
+    time: 1562094407
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -214,6 +214,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Managing Our Partners April 2017.pdf":
     md5: 87482ed2da4d739db2354aded52b7b6a
     time: 1519326268
+  "/assets/Tips for Talking with USAID - Jun 2019.pdf":
+    md5: 81048d0cb14345c6d76f3882208b2bc7
+    time: 1562094407
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
