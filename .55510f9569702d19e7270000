@@ -1,5 +1,5 @@
 ---
-time: 1562094409
+time: 1562094526
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -50,8 +50,8 @@ inventory:
     md5: 0c52c244de5d7ed48748855fafaa1ecb
     time: 1523307795
   "/integrity/procurement/index.html":
-    md5: 99e9de5ad4fda2142b936089bb7616d5
-    time: 1541015292
+    md5: 2615e9233cd96a6ff4aa495970f52e4b
+    time: 1562094524
   "/integrity/complying-with-international-trade-sanctions/index.html":
     md5: 6a5516da8d6dce6e3d7ae2e06eff733c
     time: 1523307795
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 2884ad245caeb3fe93e14fe9d96e6024
-    time: 1562094407
+    md5: 3ca9aa8eed9630b5dfdd67bfedfafb5c
+    time: 1562094525
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -217,6 +217,9 @@ inventory:
   "/assets/Tips for Talking with USAID - Jun 2019.pdf":
     md5: 81048d0cb14345c6d76f3882208b2bc7
     time: 1562094407
+  "/assets/Tips for Talking with USAID - Jun 2019-1.pdf":
+    md5: 81048d0cb14345c6d76f3882208b2bc7
+    time: 1562094525
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
