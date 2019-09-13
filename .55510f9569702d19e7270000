@@ -1,5 +1,5 @@
 ---
-time: 1568143479
+time: 1568383943
 inventory:
   "/home/index.html":
     md5: e8b8c17b088c238eaa42c7c20792d067
@@ -62,8 +62,8 @@ inventory:
     md5: c89aac3424f4e6f5f1a1c918efdf035f
     time: 1541015292
   "/responsibility/your-responsibility/index.html":
-    md5: d21c4c0eeed2f1dae03053a07e36b84b
-    time: 1568143474
+    md5: 1a14bea5b19afaaf57d946926a56de66
+    time: 1568383939
   "/responsibility/ethics-and-compliance/index.html":
     md5: de2c617f772f3155132d4bd85a30674c
     time: 1541015292
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: e85969325d313cb704e0691e9116a9fa
-    time: 1568143475
+    md5: 4333511f1140c46bb6f019d05cb42dab
+    time: 1568383939
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -352,3 +352,9 @@ inventory:
   "/assets/2019 Ethics Training (French).pdf":
     md5: 4af7860238a2fd6a70bf8c82abc5488b
     time: 1568143475
+  "/assets/2019 Annual Ethics Training (Spanish).pdf":
+    md5: e69681d0650ac65063ab299301dcd783
+    time: 1568383940
+  "/assets/2019 Annual Ethics Training Leader Guide (Spanish).pdf":
+    md5: 5bc3194da0a6da514ae03a1f9d8a9e44
+    time: 1568383940
