@@ -1,105 +1,105 @@
 ---
-time: 1568383943
+time: 1568654422
 inventory:
   "/home/index.html":
-    md5: e8b8c17b088c238eaa42c7c20792d067
-    time: 1541015290
+    md5: 665b6c35bf7e0f3e9eac51d87d990232
+    time: 1568654405
   "/index.html":
-    md5: e8b8c17b088c238eaa42c7c20792d067
-    time: 1541015290
+    md5: 665b6c35bf7e0f3e9eac51d87d990232
+    time: 1568654405
   "/introduction/index.html":
-    md5: 91d35766a055cd9221f679a25cd3e2e8
-    time: 1523307794
+    md5: 61ac121df958935238509490e7def332
+    time: 1568654405
   "/our-mission-and-values/index.html":
-    md5: a3538d369dc1c1c86c0d8e3b3c358612
-    time: 1558464300
+    md5: 85d2774a9a1d0fc96aa6425cdad5b8ce
+    time: 1568654405
   "/ethics-hotline/index.html":
-    md5: 7838ffff9890a1883fa284f150262b31
-    time: 1541015291
+    md5: 7b53e85c1ac1b5a732a6bc5bbf4335fc
+    time: 1568654405
   "/integrity/index.html":
-    md5: be1387fbbafeb72973f010a6b27e7051
-    time: 1523307794
+    md5: 3df61489ad200a4b635aba14b441fc0f
+    time: 1568654405
   "/responsibility/index.html":
-    md5: 510f7ffc69db4fcf339c67de3b54d756
-    time: 1523307795
+    md5: 55d69a867d16a113280a2b73f398d3fc
+    time: 1568654405
   "/excellence/index.html":
-    md5: 70b16ec0c72cbc2a07702390e424bdca
-    time: 1523307795
+    md5: 1975202555a539cf9e4a8784ce081f91
+    time: 1568654405
   "/global-citizenship/index.html":
-    md5: 01fbaafa785bc54135ebc1dfdec98526
-    time: 1523307795
+    md5: a87db26f5503bec547ea847145ceae25
+    time: 1568654405
   "/integrity/preventing-fraud/index.html":
-    md5: 9c0da684c4f173e5f85c3ad09a7ed802
-    time: 1547750004
+    md5: be3a660e59e698f29a3c54be7cbae999
+    time: 1568654405
   "/integrity/preventing-bribery-and-corruption/index.html":
-    md5: a3657a8a6bbd48db73d3f16b53dbf245
-    time: 1523307795
+    md5: d42a37f45c3c25f4a659bb91748e23d2
+    time: 1568654405
   "/integrity/conflicts-of-interest/index.html":
-    md5: 6b05ea8979d775426a897bc19137adbe
-    time: 1562094406
+    md5: 69111ecbfd90a80112c32dc31c50d24b
+    time: 1568654405
   "/integrity/preventing-conflicts-of-interestbias/index.html":
-    md5: 99da57f3ae6253d1b2355ff341b8184d
-    time: 1523307795
+    md5: 5fe77bcf2615a51b8cec146193bb7971
+    time: 1568654405
   "/integrity/fair-competition-and-good-faith-dealings/index.html":
-    md5: f83411a0efe84710ab1128f4d174d436
-    time: 1523307795
+    md5: 88629c865453b971ce9a2471c32b8454
+    time: 1568654405
   "/integrity/making-the-right-decision/index.html":
-    md5: d964b23fc7395b690e3d8b9f59948bf0
-    time: 1523307795
+    md5: c34450a51f1f26c14b9b846921104cd9
+    time: 1568654405
   "/integrity/protecting-information/index.html":
-    md5: 0c52c244de5d7ed48748855fafaa1ecb
-    time: 1523307795
+    md5: 9cf037fa5935d741453ce47f03769581
+    time: 1568654405
   "/integrity/procurement/index.html":
-    md5: 2615e9233cd96a6ff4aa495970f52e4b
-    time: 1562094524
+    md5: 7ad7f7cd3e32d5712ba40fdd291ce7b4
+    time: 1568654406
   "/integrity/complying-with-international-trade-sanctions/index.html":
-    md5: 6a5516da8d6dce6e3d7ae2e06eff733c
-    time: 1523307795
+    md5: 40208e3a01313354e1dbb75f040639f4
+    time: 1568654406
   "/integrity/exercising-due-diligence/index.html":
-    md5: 96910c0995a1dbac95eeae9ba6055a93
-    time: 1541015292
+    md5: 233920a19bcf7bc1b42611ec1409da9e
+    time: 1568654406
   "/integrity/audits-and-investigations/index.html":
-    md5: c89aac3424f4e6f5f1a1c918efdf035f
-    time: 1541015292
+    md5: bfd0b2a02f2aa44bd5c11e3a05ea96d6
+    time: 1568654406
   "/responsibility/your-responsibility/index.html":
-    md5: 1a14bea5b19afaaf57d946926a56de66
-    time: 1568383939
+    md5: 5a6e50645e5dab437a8023578a06a509
+    time: 1568654406
   "/responsibility/ethics-and-compliance/index.html":
-    md5: de2c617f772f3155132d4bd85a30674c
-    time: 1541015292
+    md5: b7a00e087cea3fe0313d7ecdbb7312a3
+    time: 1568654406
   "/excellence/ensuring-quality/index.html":
-    md5: 5ab6cbd1f90c622061bc26536b37c6d2
-    time: 1541101610
+    md5: 860ad3bdd45165e7e8e0de4ff6c24cb7
+    time: 1568654406
   "/global-citizenship/safe-secure-and-healthy-work-environment/index.html":
-    md5: 3600d03437ab50f510c5e46fec2aa649
-    time: 1523307796
+    md5: d9d65599d267a221a7caaa8091b262e4
+    time: 1568654406
   "/global-citizenship/respect-and-no-harassment/index.html":
-    md5: 8c298568cbd8a7a7265a0a4b9ea33738
-    time: 1541015293
+    md5: 88705dbe4fc1b4114d0ce0a3fcbc9825
+    time: 1568654406
   "/global-citizenship/non-retaliation-and-whistleblower-protection/index.html":
-    md5: df9e1261205201ba6205e5b05435106c
-    time: 1523307796
+    md5: 4642b80a8b356a23e05881a28de1d939
+    time: 1568654407
   "/global-citizenship/non-discrimination-and-equalities-policy/index.html":
-    md5: fd584f7b5f293eba72c345c669b48e5d
-    time: 1523307796
+    md5: 6c0386a7c7a64098db10e5f3b797496d
+    time: 1568654407
   "/global-citizenship/anti-human-trafficking/index.html":
-    md5: bdd34d1a33ed5da3754e1fdd6dc34fea
-    time: 1523307796
+    md5: d869a2272f18abce3173268ca8d0f9a7
+    time: 1568654407
   "/global-citizenship/child-protection/index.html":
-    md5: f24c0f04ebbc0a018d860e61537b0a78
-    time: 1523307796
+    md5: 2f791269671b07efcf00e16aeec9fdad
+    time: 1568654407
   "/global-citizenship/political-activities/index.html":
-    md5: 766466cffe1e15f93119c9e87e3381f2
-    time: 1523307796
+    md5: 1ded569f5389147a224d6f180bee8a9f
+    time: 1568654407
   "/global-citizenship/gifts-and-entertainment/index.html":
-    md5: 3e6913d33486cc9bbd1c61db85d8faa3
-    time: 1523307796
+    md5: f7a3ef6a6d87bf2871c50f76731f368c
+    time: 1568654407
   "/global-citizenship/communicating-with-media-and-the-public/index.html":
-    md5: 2a0a7c8bb7e5035034439f3fd02515dd
-    time: 1523307796
+    md5: ffa7892227a4b8454775d4055eb737c2
+    time: 1568654407
   "/global-citizenship/using-information-email-and-social-media-responsibly/index.html":
-    md5: ebc77fc1c1b6e8a5996c52a81dc65398
-    time: 1523307796
+    md5: 305b883b24e2f660a4ffd39e00e428a3
+    time: 1568654407
   "/CNAME":
     md5: 80b1e9dce7c56fea7a4b50dc062494b6
     time: 1445876244
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 4333511f1140c46bb6f019d05cb42dab
-    time: 1568383939
+    md5: 03dfe539a50296b088cddd0ead7aa7c4
+    time: 1568654407
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -157,12 +157,6 @@ inventory:
   "/assets/sass/_variables.scss":
     md5: ae41ef01ecdec2df2e5032e3c3b384fc
     time: 1445876246
-  "/Gemfile":
-    md5: 47e098266b02e05ec2be090500c18e4d
-    time: 1445876246
-  "/Gemfile.lock":
-    md5: 2a498d4abf7a8a282c6c700acf14363f
-    time: 1445876246
   "/Guardfile":
     md5: 745dfb16fc46097b3002968df3e363c8
     time: 1445876246
@@ -190,12 +184,6 @@ inventory:
   "/assets/Code of Conduct - Urdu-1.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794875
-  "/assets/css/site.css":
-    md5: 8af4a57b103d20e6baa51436ef973c7d
-    time: 1456348470
-  "/assets/sass/site.scss":
-    md5: 47f7eb4b5a1d7290351867ecc61d27ce
-    time: 1456348470
   "/assets/DAI Global Conduct Quarterly - Conflicts of Interest Feb 2017.pdf":
     md5: 2278fd9dbce6eac57be7810c61205966
     time: 1486672557
@@ -220,6 +208,18 @@ inventory:
   "/assets/Tips for Talking with USAID - Jun 2019-1.pdf":
     md5: 81048d0cb14345c6d76f3882208b2bc7
     time: 1562094525
+  "/Gemfile":
+    md5: 7250c41cb7ec0c73887d842e4a9ac330
+    time: 1568654407
+  "/Gemfile.lock":
+    md5: ed05dc153bc4e7b790b9f25d95898a0b
+    time: 1568654407
+  "/assets/css/site.css":
+    md5: b59a9fb4ba3f04d23bedf3f7b2e7af24
+    time: 1568654407
+  "/assets/sass/site.scss":
+    md5: 7fbaf8571e836033e8994c61b5409c5f
+    time: 1568654407
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247

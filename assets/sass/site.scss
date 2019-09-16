@@ -93,29 +93,3 @@ aside{
 img{
   width: 100%;
 }
-@mixin width ($cols:1) {
-  width: ($cols * ($column + $gutter) - $gutter);
-}
-@mixin full-width ($cols:1){
-  width: ($cols * ($column + $gutter));
-}
-@mixin min-width ($cols:1) {
-  width: ($cols * ($column + $gutter) - $gutter);
-}
-iframe{
-  width: 100%;
-  margin-bottom: 1rem;
-  height: 143px;
-  @include responsive(small-screens){
-    height: 230px;
-  }
-  @include responsive(medium-screens){
-    height: 335px;
-  }
-  @include responsive(wide-screens){
-    height: 400px;
-  }
-  @include responsive(ultra-wide-screens){
-    height: 470px;
-  }
-}

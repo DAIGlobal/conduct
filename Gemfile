@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'rack'
-gem 'siteleaf'
+gem 'siteleaf', "~> 1"
 gem 'guard-sass'
 gem 'guard-livereload'
 gem 'guard-concat'
