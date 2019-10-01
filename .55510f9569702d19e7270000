@@ -1,5 +1,5 @@
 ---
-time: 1569946488
+time: 1569946543
 inventory:
   "/home/index.html":
     md5: 665b6c35bf7e0f3e9eac51d87d990232
@@ -32,8 +32,8 @@ inventory:
     md5: be3a660e59e698f29a3c54be7cbae999
     time: 1568654405
   "/integrity/preventing-bribery-and-corruption/index.html":
-    md5: 5e047f69a665692d3d6f8d0434f654cb
-    time: 1569946484
+    md5: 32d65e0f3aeac99eb6aae2d44717d679
+    time: 1569946540
   "/integrity/conflicts-of-interest/index.html":
     md5: 69111ecbfd90a80112c32dc31c50d24b
     time: 1568654405
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 3ec7a08a0d1490bfb0984af2abaf23f9
-    time: 1569946486
+    md5: c43479ec6c4d92c9ac6e841b79fca066
+    time: 1569946542
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
