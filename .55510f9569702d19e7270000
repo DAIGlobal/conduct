@@ -1,5 +1,5 @@
 ---
-time: 1570465563
+time: 1570480190
 inventory:
   "/home/index.html":
     md5: 665b6c35bf7e0f3e9eac51d87d990232
@@ -32,8 +32,8 @@ inventory:
     md5: be3a660e59e698f29a3c54be7cbae999
     time: 1568654405
   "/integrity/preventing-bribery-and-corruption/index.html":
-    md5: 465f9df1eb16069800c20c4a54371518
-    time: 1570465560
+    md5: 411c460158143f8070e8213d74a2ffb0
+    time: 1570480187
   "/integrity/conflicts-of-interest/index.html":
     md5: 69111ecbfd90a80112c32dc31c50d24b
     time: 1568654405
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: c2c380fd131e4eb6eee4f6afa3c964da
-    time: 1570465562
+    md5: 4c07f1aab6e709df9b142c4ae33f80b8
+    time: 1570480189
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -301,9 +301,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Reporting - March 2019.pdf":
     md5: ca3f175a686b561371a91b11d79d6767
     time: 1554491623
-  "/assets/DAI Global Conduct Quarterly - Bribery and Kickbacks September 2019.pdf":
-    md5: ea4891974cb04c9ffdf62b42f30ef671
-    time: 1569946486
+  "/assets/--|.txt":
+    md5: 9133c25188be0feabf3ed8c3995f99f9
+    time: 1570465562
   "/assets/Code of Conduct - April 2015 Arabic 10-1-15-2.pdf":
     md5: 26332f4c64be0fa9874ab17d7684ff1a
     time: 1445876249
@@ -316,9 +316,9 @@ inventory:
   "/assets/Applying Management Skills to Create an Ethical Culture.pdf":
     md5: 8af7749709135e7e5292ab463cf5ddac
     time: 1559068053
-  "/assets/--|.txt":
-    md5: 9133c25188be0feabf3ed8c3995f99f9
-    time: 1570465562
+  "/assets/DAI Global Conduct Quarterly - Bribery and Kickbacks September 2019.pdf":
+    md5: 38dfdff444d170b12089524e8f4e6d51
+    time: 1570480189
   "/assets/Code of Conduct - Urdu-1-2.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794876
