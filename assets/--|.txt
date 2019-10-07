@@ -1,0 +1,22 @@
+| Rank | Country | Score |
+|:--|:--|:--|
+| 1 | Norway |  2.842931 |
+| 2 | Luxembourg | 2.812965 |
+| 3 | Germany | 2.623542 |
+| 4 | Vanuatu | 2.585769 |
+| 5 | Mongolia | 2.574794 |
+| 6 | Denmark | 2.541700 |
+| 7 | The Gambia | 2.496522 |
+| 8 | Uruguay | 2.481603 |
+| 9 | Austria | 2.454881 |
+| 10 | Poland | 2.429505 |
+| 11 | Switzerland | 2.330448 |
+| 12 | Tunisia | 2.330208 |
+| 13 | Sweden | 23320710 |
+| 14 | Portugal | 2.307374 |
+| 15 | Niger | 2.273868 |
+| 16 | Greece | 2.273868 |
+| 17 | Belgium | 2.244480 |
+| 18 | Senegal | 2.241086 |
+| 19 | Costa Rica | 2.239165 |
+| 20 | Italy | 2.237418 |

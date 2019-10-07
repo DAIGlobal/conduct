@@ -1,5 +1,5 @@
 ---
-time: 1569946543
+time: 1570465563
 inventory:
   "/home/index.html":
     md5: 665b6c35bf7e0f3e9eac51d87d990232
@@ -32,8 +32,8 @@ inventory:
     md5: be3a660e59e698f29a3c54be7cbae999
     time: 1568654405
   "/integrity/preventing-bribery-and-corruption/index.html":
-    md5: 32d65e0f3aeac99eb6aae2d44717d679
-    time: 1569946540
+    md5: 465f9df1eb16069800c20c4a54371518
+    time: 1570465560
   "/integrity/conflicts-of-interest/index.html":
     md5: 69111ecbfd90a80112c32dc31c50d24b
     time: 1568654405
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: c43479ec6c4d92c9ac6e841b79fca066
-    time: 1569946542
+    md5: c2c380fd131e4eb6eee4f6afa3c964da
+    time: 1570465562
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -316,6 +316,9 @@ inventory:
   "/assets/Applying Management Skills to Create an Ethical Culture.pdf":
     md5: 8af7749709135e7e5292ab463cf5ddac
     time: 1559068053
+  "/assets/--|.txt":
+    md5: 9133c25188be0feabf3ed8c3995f99f9
+    time: 1570465562
   "/assets/Code of Conduct - Urdu-1-2.pdf":
     md5: 960bc2f2813743e8fd58fefbce70ab9f
     time: 1447794876
