@@ -1,5 +1,5 @@
 ---
-time: 1570480190
+time: 1576515481
 inventory:
   "/home/index.html":
     md5: 665b6c35bf7e0f3e9eac51d87d990232
@@ -92,8 +92,8 @@ inventory:
     md5: 1ded569f5389147a224d6f180bee8a9f
     time: 1568654407
   "/global-citizenship/gifts-and-entertainment/index.html":
-    md5: f7a3ef6a6d87bf2871c50f76731f368c
-    time: 1568654407
+    md5: a9e97cbfea36c44bdbd3134ba7d167d4
+    time: 1576515480
   "/global-citizenship/communicating-with-media-and-the-public/index.html":
     md5: ffa7892227a4b8454775d4055eb737c2
     time: 1568654407
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 4c07f1aab6e709df9b142c4ae33f80b8
-    time: 1570480189
+    md5: 04e2d23c5d43371236cc0fc8cc3e17e1
+    time: 1576515480
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -193,9 +193,9 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-1.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755129
-  "/assets/Holiday Reminder on Gifts and Entertainment.docx":
-    md5: 10571304cccb7487a82fab8ba1bf8afc
-    time: 1512503588
+  "/assets/GIFT Rule.docx":
+    md5: 55773a0324f6edefd7e7dfad8e515b1c
+    time: 1512485081
   "/assets/DAI Global Conduct Quarterly - Sexual Harassment 12-18-2017.pdf":
     md5: 65160f93800e00939ba021f7c455b4f9
     time: 1513608537
@@ -238,9 +238,6 @@ inventory:
   "/assets/2017 Annual Ethics Training Powerpoint-2.pptx":
     md5: f60c68622015a3c1ff6e00c1af2ef38b
     time: 1505755130
-  "/assets/GIFT Rule.docx":
-    md5: 55773a0324f6edefd7e7dfad8e515b1c
-    time: 1512485081
   "/assets/Message from our CEO on MLK Day - Jan-15-2018.docx":
     md5: bbbe92f0f5850b77b69d519f07e1f664
     time: 1516631782
@@ -253,6 +250,9 @@ inventory:
   "/assets/DAI Global Conduct Quarterly - Performance Fraud - October 2018.pdf":
     md5: 5b5113eb6ab870f35145c68e51116101
     time: 1541101611
+  "/assets/Holiday Reminder on Gifts and Entertainment.pdf":
+    md5: 73af4ede0a5116c6229b37597f67501c
+    time: 1576515480
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
