@@ -1,5 +1,5 @@
 ---
-time: 1582551025
+time: 1583444711
 inventory:
   "/home/index.html":
     md5: c7f26a679008b651957af765c8b27786
@@ -50,8 +50,8 @@ inventory:
     md5: 1b621628c91381125cdbb4163ff20c31
     time: 1582551010
   "/integrity/procurement/index.html":
-    md5: 13386cd95068cdd0ee3cf2b177f9b93b
-    time: 1582551010
+    md5: 727db6fb59e8d072190d3e3f848b8410
+    time: 1583444708
   "/integrity/complying-with-international-trade-sanctions/index.html":
     md5: aec0246724ef3826bb768df8e7a1232e
     time: 1582551010
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: cc55d3cd0571107204ba28fdceec245e
-    time: 1582551011
+    md5: 4e01ba2cad73f7ea1c9f4eabac59e701
+    time: 1583444709
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -253,6 +253,9 @@ inventory:
   "/assets/Holiday Reminder on Gifts and Entertainment.pdf":
     md5: 73af4ede0a5116c6229b37597f67501c
     time: 1576515480
+  "/assets/Message from Tine Knott - Reminder on how to handle ethical violations - March 2020.pdf":
+    md5: 99b5ff4aa4d3bb87660a1c74725d031f
+    time: 1583444709
   "/assets/Fraud Awareness (FINAL).ppt":
     md5: 91bd0c32f3b41b9ae50acf0dcdd206dc
     time: 1445876248
