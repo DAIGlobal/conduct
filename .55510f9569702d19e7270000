@@ -1,5 +1,5 @@
 ---
-time: 1583444711
+time: 1622041407
 inventory:
   "/home/index.html":
     md5: c7f26a679008b651957af765c8b27786
@@ -29,8 +29,8 @@ inventory:
     md5: fad9b1e3bb43629ef23c3978d1f180e2
     time: 1582551009
   "/integrity/preventing-fraud/index.html":
-    md5: c9261b1357092a7cbad67501fb9616bb
-    time: 1582551009
+    md5: 765a35fc6a4f69b3791975eb4763522e
+    time: 1622041404
   "/integrity/preventing-bribery-and-corruption/index.html":
     md5: fce2c16aa5505a7e17eea4d5ba59d45e
     time: 1582551009
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: 4e01ba2cad73f7ea1c9f4eabac59e701
-    time: 1583444709
+    md5: a3b0ed2de270b8938c925c113c3ec31f
+    time: 1622041406
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -298,9 +298,9 @@ inventory:
   "/assets/Example for sexual harassment training 2018 - French Version.pptx":
     md5: 067e35107c4fa4b3632b3c2ab04cc222
     time: 1520355626
-  "/assets/Pocket Guide to Fraud Prevention and Compliance.pdf":
-    md5: 0ed9daf5ccd0ff65ac169bfdf4d378c9
-    time: 1533741642
+  "/assets/DAI Global Conduct Quarterly - Procurement Fraud - December 2018.pdf":
+    md5: 06adcc100940955d48ae735128092621
+    time: 1547154630
   "/assets/DAI Global Conduct Quarterly - Reporting - March 2019.pdf":
     md5: ca3f175a686b561371a91b11d79d6767
     time: 1554491623
@@ -313,9 +313,9 @@ inventory:
   "/assets/DAI's zero tolerance for sexual harassment - Spanish version.pdf":
     md5: 1c85b5ba582dc1f2e9832c4195c75c3a
     time: 1522179390
-  "/assets/DAI Global Conduct Quarterly - Procurement Fraud - December 2018.pdf":
-    md5: 06adcc100940955d48ae735128092621
-    time: 1547154630
+  "/assets/DAI Global Conduct Trimestral - Fraude en Compras - Dic 2018.pdf":
+    md5: 171a07712143069f2c4c447ba8c4c66b
+    time: 1547750006
   "/assets/Applying Management Skills to Create an Ethical Culture.pdf":
     md5: 8af7749709135e7e5292ab463cf5ddac
     time: 1559068053
@@ -328,12 +328,12 @@ inventory:
   "/assets/No Harassment Policy - Spanish version.pdf":
     md5: 8d8ac3a867e6d5cb5b9e07c0fd7ac355
     time: 1522179390
-  "/assets/DAI Global Conduct Trimestral - Fraude en Compras - Dic 2018.pdf":
-    md5: 171a07712143069f2c4c447ba8c4c66b
-    time: 1547750006
   "/assets/2018 Annual Ethics Training.pdf":
     md5: d97251494a56113842049b37eb6eea0d
     time: 1568142133
+  "/assets/OIG Fraud Prevention and Compliance Handbook Oct 2018.pdf":
+    md5: d3de4c806c9c17a0bb0d686f9ee985e6
+    time: 1622041406
   "/assets/Bahasa Indonesia Pedoman Bisnis dan Etika DAI.pdf":
     md5: 15a7cf9f14b3167162eb416a8b7d5364
     time: 1479160326
