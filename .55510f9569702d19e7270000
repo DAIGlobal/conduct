@@ -1,5 +1,5 @@
 ---
-time: 1625697773
+time: 1625697874
 inventory:
   "/home/index.html":
     md5: c7f26a679008b651957af765c8b27786
@@ -80,8 +80,8 @@ inventory:
     md5: cbcf857564e6b45a23ded700fbd94457
     time: 1582551011
   "/global-citizenship/non-discrimination-and-equalities-policy/index.html":
-    md5: a86b4ae3c1019232efe0300ddb288420
-    time: 1625696884
+    md5: 706d88a8c0089f1e426769f6605b18e2
+    time: 1625697872
   "/global-citizenship/anti-human-trafficking/index.html":
     md5: f56d11b3ed91ad0050ae0a13cb608e07
     time: 1582551011
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: e8b75828996dfe5b526cda6f8f135332
-    time: 1625696885
+    md5: cc82015907936c1a5618d91f752d1c39
+    time: 1625697873
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
