@@ -1,5 +1,5 @@
 ---
-time: 1622041407
+time: 1625696886
 inventory:
   "/home/index.html":
     md5: c7f26a679008b651957af765c8b27786
@@ -80,8 +80,8 @@ inventory:
     md5: cbcf857564e6b45a23ded700fbd94457
     time: 1582551011
   "/global-citizenship/non-discrimination-and-equalities-policy/index.html":
-    md5: ab5de190893676a0db9be804ee476db2
-    time: 1582551011
+    md5: a86b4ae3c1019232efe0300ddb288420
+    time: 1625696884
   "/global-citizenship/anti-human-trafficking/index.html":
     md5: f56d11b3ed91ad0050ae0a13cb608e07
     time: 1582551011
@@ -107,8 +107,8 @@ inventory:
     md5: c894d70f5ecdfebfb5912bc8c58a28ad
     time: 1558464302
   "/feed.xml":
-    md5: a3b0ed2de270b8938c925c113c3ec31f
-    time: 1622041406
+    md5: e8b75828996dfe5b526cda6f8f135332
+    time: 1625696885
   "/assets/jim.jpg":
     md5: 4af636fb0648c947407d3fec0fc849e3
     time: 1445876244
@@ -220,6 +220,9 @@ inventory:
   "/assets/sass/site.scss":
     md5: 7fbaf8571e836033e8994c61b5409c5f
     time: 1568654407
+  "/assets/Equalities Policy.pdf":
+    md5: 8cbae1933f7987c816bd01ce7e321151
+    time: 1625696885
   "/assets/Examples of fraud.docx":
     md5: e6c60dbc16792a812341a1602217e297
     time: 1445876247
